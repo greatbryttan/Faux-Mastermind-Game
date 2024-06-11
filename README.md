@@ -1,1 +1,1 @@
-# Faux-Mastermind-Game
+# Mastermind Remix-Game
