@@ -1,1 +1,1 @@
-# Mastermind Remix-Game
+# Mastermind Remixed Game
